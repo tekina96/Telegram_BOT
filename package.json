@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "node index",
+    "dev": "nodemon index"
+  },"dependencies": {
+    "node-telegram-bot-api": "^0.57.0",
+    "nodemon": "^2.0.18",
+    "requests": "^0.3.0",
+    "telegraf": "^4.8.5"
+  }
+}
